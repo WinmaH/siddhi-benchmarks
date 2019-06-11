@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <echo>Using env.test.properties</echo>
+  <copy file="config.properties" tofile="/home/winma/Documents/SampleBenchMark/nexmark-new/NexmarkAuctionStreamProcessor/target/classes/config.properties"/>
+</target>
+</project>

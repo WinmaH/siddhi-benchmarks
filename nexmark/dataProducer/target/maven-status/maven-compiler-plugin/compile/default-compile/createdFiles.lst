@@ -1,0 +1,15 @@
+org/wso2/siddhi/common/benchmarks/http/NEXMarkGenerator.class
+org/wso2/siddhi/common/benchmarks/http/Persons.class
+org/wso2/siddhi/common/benchmarks/http/IntToString.class
+org/wso2/siddhi/common/benchmarks/http/SimpleCalendar.class
+org/wso2/siddhi/common/benchmarks/http/MyBuffer.class
+org/wso2/siddhi/common/benchmarks/http/KafkaMessageSender.class
+org/wso2/siddhi/common/benchmarks/http/OpenAuction.class
+org/wso2/siddhi/common/benchmarks/http/PersonGen$Address.class
+org/wso2/siddhi/common/benchmarks/http/BigValueGen.class
+org/wso2/siddhi/common/benchmarks/http/PersonGen$Profile.class
+org/wso2/siddhi/common/benchmarks/http/FirstnamesGen.class
+org/wso2/siddhi/common/benchmarks/http/LastnamesGen.class
+org/wso2/siddhi/common/benchmarks/http/AuctionStreamGenerator.class
+org/wso2/siddhi/common/benchmarks/http/PersonGen.class
+org/wso2/siddhi/common/benchmarks/http/OpenAuctions.class
